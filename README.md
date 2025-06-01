@@ -40,7 +40,7 @@ This project explores the restaurant landscape of Bangalore using Zomato's datas
 ![rating-plot](Rating_distribution (1).png)
 
 ### 🔸 Top Cuisines
-![top-cuisines](Rating_distribution(2).png)
+![top-cuisines](Rating_distribution (2).png)
 
 ### 🔸 Italian Restaurants Map
 ![map-preview](Resturant_Analysis_Hackathon/Resturant.png)
@@ -53,3 +53,18 @@ This project explores the restaurant landscape of Bangalore using Zomato's datas
 ```bash
 git clone https://github.com/jafar90147677/Zomato-Bangalore-Restaurant-Analysis.git
 cd Zomato-Bangalore-Restaurant-Analysis
+
+```
+## ✨ Author
+
+**Mohammed Jafar Sadiqe**  
+🔗 [LinkedIn](https://linkedin.com/in/mohammad-jafar-sadiqe-01199a219)  
+📧 [Email](mailto:jafarsadiqe.2001@gmail.com)  
+💻 [GitHub](https://github.com/jafar90147677)  
+📝 [Medium](https://medium.com/@jafarsadiqe.2001)
+
+| 💻 Data Science & ML Enthusiast | 🧠 Turning raw data into actionable insights |
+
+
+
+
