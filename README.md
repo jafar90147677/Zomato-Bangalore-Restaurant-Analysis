@@ -37,13 +37,13 @@ This project explores the restaurant landscape of Bangalore using Zomato's datas
 ## 📷 Screenshots
 
 ### 🔸 Italian Restaurant Map (Folium)
-![map](./2eb3b425-1742-46b7-b3df-8fabf284f57e.png)
+![Italian Restaurant Map](./images/map.png)
 
 ### 🔸 Distribution of Restaurant Ratings
-![ratings](./6a7f70bc-1c65-4733-8172-7a028b04c896.png)
+![Rating Distribution](./images/ratings.png)
 
 ### 🔸 Top 10 Most Common Cuisines
-![cuisines](./9dd1cbdc-6707-42b6-a8e2-73164b8c9dd0.png)
+![Top Cuisines](./images/cuisines.png)
 
 ---
 
