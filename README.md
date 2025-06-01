@@ -18,11 +18,11 @@ This project explores the restaurant landscape of Bangalore using Zomato's datas
 - Cleaned cost data by removing commas and handling missing values.
 - Filled missing categorical values (`cuisines`, `dish_liked`, `rest_type`) with appropriate defaults.
 - Encoded binary fields like `online_order` and `book_table`.
-- Merged Zomato data with geographical coordinates using `listed_incity`.
+- Merged Zomato data with geographical coordinates using `listed_in(city)`.
 
 ### 📊 Exploratory Data Analysis (EDA)
-- Distribution of ratings
-- Top cuisines offered
+- Distribution of restaurant ratings
+- Top cuisines offered across Bangalore
 - Top localities by restaurant count
 - Cost vs rating scatter analysis
 - Restaurant type frequency
@@ -36,33 +36,21 @@ This project explores the restaurant landscape of Bangalore using Zomato's datas
 
 ## 📷 Screenshots
 
-### 🔸 Rating Distribution
-![rating-plot](Rating_distribution (1).png)
+### 🔸 Italian Restaurant Map (Folium)
+![map](./2eb3b425-1742-46b7-b3df-8fabf284f57e.png)
 
-### 🔸 Top Cuisines
-![top-cuisines](Rating_distribution (2).png)
+### 🔸 Distribution of Restaurant Ratings
+![ratings](./6a7f70bc-1c65-4733-8172-7a028b04c896.png)
 
-### 🔸 Italian Restaurants Map
-![map-preview]("https://github.com/jafar90147677/Zomato-Bangalore-Restaurant-Analysis/blob/main/Resturant_Analysis_Hackathon/Resturant.png")
+### 🔸 Top 10 Most Common Cuisines
+![cuisines](./9dd1cbdc-6707-42b6-a8e2-73164b8c9dd0.png)
 
 ---
 
 ## 🚀 How to Run
 
-1. Clone the repo:
+1. Clone the repository:
+
 ```bash
-git clone https://github.com/your-username/zomato-bangalore-eda.git
-cd zomato-bangalore-eda
-
-
-```
-
-## ✨ Author
-
-**Mohammed Jafar Sadiqe**  
-🔗 [LinkedIn](https://linkedin.com/in/mohammad-jafar-sadiqe-01199a219)  
-📧 [Email](mailto:jafarsadiqe.2001@gmail.com)  
-💻 [GitHub](https://github.com/jafar90147677)  
-📝 [Medium](https://medium.com/@jafarsadiqe.2001)
-
-| 💻 Data Science & ML Enthusiast | 🧠 Turning raw data into actionable insights |
+git clone https://github.com/jafar90147677/Zomato-Bangalore-Restaurant-Analysis.git
+cd Zomato-Bangalore-Restaurant-Analysis
