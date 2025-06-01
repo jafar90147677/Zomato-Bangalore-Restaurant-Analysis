@@ -40,7 +40,7 @@ This project explores the restaurant landscape of Bangalore using Zomato's datas
 ![rating-plot](Rating_distribution (1).png)
 
 ### 🔸 Top Cuisines
-![top-cuisines](Zomato-Bangalore-Restaurant-Analysis/Rating_distribution(2).png)
+![top-cuisines](Rating_distribution(2).png)
 
 ### 🔸 Italian Restaurants Map
 ![map-preview](Resturant_Analysis_Hackathon/Resturant.png)
