@@ -43,7 +43,7 @@ This project explores the restaurant landscape of Bangalore using Zomato's datas
 ![top-cuisines](Rating_distribution (2).png)
 
 ### 🔸 Italian Restaurants Map
-![map-preview](Resturant_Hackathon/Resturant.png)
+![map-preview]("C:\Users\Dell\OneDrive\Desktop\Zomato-Bangalore-Restaurant-Trends-main\Resturant_Analysis_Hackathon\Resturant.png")
 
 ---
 
